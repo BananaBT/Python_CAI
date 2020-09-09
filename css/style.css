@@ -1,19 +1,9 @@
 body{
-
+/*
     background: rgb(53,113,163);
-    background: linear-gradient(5deg, rgba(53,113,163,1) 10%, rgba(255,255,255,1) 44%, rgba(255,213,78,1) 90%);
-    
-
-
-
-}
-
-#swf{
-
-    -webkit-box-shadow:inset 1280px 720px 5px undefinedpx #FAFF73;
-    box-shadow:inset 1280px 720px 5px undefinedpx #FAFF73;
-
-
+    background: linear-gradient(5deg, rgba(53,113,163,1) 10%, rgba(255,255,255,1) 44%, rgba(255,213,78,1) 90%)
+*/
+    font-family: "Kanit" ;
 }
 
 
@@ -27,8 +17,6 @@ body{
 
 #head{
     text-align: center;
-
-
-
+    font
 
 }
