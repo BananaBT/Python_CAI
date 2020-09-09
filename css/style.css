@@ -1,8 +1,6 @@
 body{
-/*
     background: rgb(53,113,163);
-    background: linear-gradient(5deg, rgba(53,113,163,1) 10%, rgba(255,255,255,1) 44%, rgba(255,213,78,1) 90%)
-*/
+    background: linear-gradient(151deg, rgba(53,113,163,1) 42%, rgba(255,205,61,1) 63%);
     font-family: "Kanit" ;
 }
 
@@ -17,6 +15,5 @@ body{
 
 #head{
     text-align: center;
-    font
 
 }
